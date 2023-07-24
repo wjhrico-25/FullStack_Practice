@@ -2,7 +2,7 @@
 IFCA Training using React-TypeScript as Front-End, TypeGraphQL as Back-End and Postgres as Database
 
 Pre-Requisites:
-1. open the Windows Subssytem for Linux, to connect the redis connection by typing '**sudo service redis-server**' start and then check the redis connection by typing "**redis-cli**" & "**ping**"
+1. open the Windows Subsystem for Linux, to connect the Redis connection by typing '**sudo service redis-server**' start and then check the Redis connection by typing "**redis-cli**" & "**ping**"
 2. open both terminals in VS Code and then run the **backend(typegraphql-practice)** first by typing the _**'yarn start'**_ and then run it by clicking the Enter button, then run the **frontend(react-typescript-frontend)** by typing the _**'yarn dev'**_ and then run it by clicking the enter button
 
 To register the user:
