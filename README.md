@@ -23,3 +23,9 @@ Notes:
 - For the backend part I followed the method from the Ben Awad TypeGraphQL tutorial playlist from Setup to Logout
 - For the frontend part I used Chakra UI and Nextjs and the methods from Ben Awad's Fullstack React GraphQL TypeScript Tutorial (without using MikroORM)
 - I have not included the forgotPassword and changePassword, and I made it _optional_.
+
+Software Tools:
+- React-TypeScript
+- TypeGraphQL
+- Charkra-UI
+- TypeORM
