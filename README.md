@@ -29,3 +29,4 @@ Software Tools:
 - TypeGraphQL
 - Charkra-UI
 - TypeORM
+- Postgres
